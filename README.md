@@ -1,8 +1,9 @@
 # OSVOS-with-U-Net
-
+core idea comes from the OSVOS: process every frame individually.
 For  UoG's  final year project  
 This project was completed in Colab  
 Using the library [Segmentation Models](https://github.com/qubvel/segmentation_models) and its environment configuration  
+the origrin frames are cropped to fit the U-Net's size requirement (from two side).
 To repeat my experiment, you need files [Val.zip](https://drive.google.com/open?id=1xM8_X4pNOL7entI2X-Gr_OYINWfI8igb)/[DAVIS.zip](https://drive.google.com/open?id=1-3Uz2d9kvFyd5voyzN5L1iQXSB5b6-N4)/[parent model](https://drive.google.com/open?id=14hv7IIklxByXAVE7DJwxIfx5etj-8yJ6h)
 
 some results
